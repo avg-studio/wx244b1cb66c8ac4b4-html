@@ -1,0 +1,62 @@
+
+re.png
+size: 588,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+前手
+  rotate: true
+  xy: 446, 55
+  size: 101, 48
+  orig: 101, 48
+  offset: 0, 0
+  index: -1
+前眼
+  rotate: true
+  xy: 546, 40
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+前腿
+  rotate: false
+  xy: 496, 82
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+后手
+  rotate: false
+  xy: 446, 16
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+后眼
+  rotate: false
+  xy: 496, 56
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+后腿
+  rotate: true
+  xy: 446, 158
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+舌头
+  rotate: false
+  xy: 525, 162
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+身子
+  rotate: false
+  xy: 2, 2
+  size: 442, 237
+  orig: 442, 241
+  offset: 0, 4
+  index: -1

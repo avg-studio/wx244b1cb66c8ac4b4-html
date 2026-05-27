@@ -1,0 +1,55 @@
+
+lv.png
+size: 842,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手
+  rotate: true
+  xy: 657, 24
+  size: 223, 79
+  orig: 223, 79
+  offset: 0, 0
+  index: -1
+天线
+  rotate: true
+  xy: 657, 4
+  size: 18, 79
+  orig: 18, 79
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 738, 56
+  size: 191, 81
+  orig: 196, 81
+  offset: 5, 0
+  index: -1
+眼睛
+  rotate: true
+  xy: 807, 18
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+耳朵
+  rotate: true
+  xy: 738, 2
+  size: 52, 67
+  orig: 52, 69
+  offset: 0, 1
+  index: -1
+腿
+  rotate: true
+  xy: 437, 6
+  size: 241, 218
+  orig: 243, 221
+  offset: 0, 1
+  index: -1
+身子
+  rotate: true
+  xy: 2, 17
+  size: 230, 433
+  orig: 230, 463
+  offset: 0, 28
+  index: -1

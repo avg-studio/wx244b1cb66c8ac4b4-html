@@ -1,0 +1,34 @@
+
+an.png
+size: 229,487
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+字
+  rotate: true
+  xy: 2, 100
+  size: 278, 62
+  orig: 278, 62
+  offset: 0, 0
+  index: -1
+按钮
+  rotate: true
+  xy: 66, 2
+  size: 376, 161
+  orig: 376, 162
+  offset: 0, 0
+  index: -1
+视频
+  rotate: false
+  xy: 2, 448
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+鸭子
+  rotate: true
+  xy: 49, 380
+  size: 105, 142
+  orig: 105, 142
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+jiang.png
+size: 534,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+前手
+  rotate: true
+  xy: 364, 12
+  size: 74, 106
+  orig: 77, 106
+  offset: 3, 0
+  index: -1
+前腿
+  rotate: false
+  xy: 364, 88
+  size: 94, 169
+  orig: 97, 171
+  offset: 3, 0
+  index: -1
+后手
+  rotate: false
+  xy: 460, 111
+  size: 63, 71
+  orig: 63, 71
+  offset: 0, 0
+  index: -1
+后退
+  rotate: true
+  xy: 460, 184
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+身子
+  rotate: true
+  xy: 2, 2
+  size: 255, 360
+  orig: 255, 360
+  offset: 0, 0
+  index: -1

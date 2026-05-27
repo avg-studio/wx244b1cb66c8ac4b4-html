@@ -1,0 +1,34 @@
+
+tk2.png
+size: 1204,815
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+头盔
+  rotate: false
+  xy: 2, 2
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+字
+  rotate: false
+  xy: 314, 182
+  size: 758, 89
+  orig: 760, 89
+  offset: 1, 0
+  index: -1
+字2
+  rotate: true
+  xy: 1074, 97
+  size: 174, 78
+  orig: 174, 78
+  offset: 0, 0
+  index: -1
+生成鸭子与警察的图片
+  rotate: true
+  xy: 2, 273
+  size: 540, 1200
+  orig: 540, 1200
+  offset: 0, 0
+  index: -1

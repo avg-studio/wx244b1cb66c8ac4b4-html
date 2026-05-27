@@ -1,0 +1,90 @@
+
+sbz.png
+size: 922,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+中间帧
+  rotate: false
+  xy: 479, 207
+  size: 267, 188
+  orig: 267, 188
+  offset: 0, 0
+  index: -1
+住
+  rotate: false
+  xy: 2, 2
+  size: 217, 505
+  orig: 224, 515
+  offset: 7, 10
+  index: -1
+光效
+  rotate: false
+  xy: 221, 251
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+前腿
+  rotate: true
+  xy: 696, 105
+  size: 100, 99
+  orig: 100, 111
+  offset: 0, 12
+  index: -1
+后手
+  rotate: false
+  xy: 838, 204
+  size: 73, 142
+  orig: 73, 151
+  offset: 0, 0
+  index: -1
+后退
+  rotate: false
+  xy: 748, 243
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+小车
+  rotate: false
+  xy: 479, 397
+  size: 361, 110
+  orig: 361, 110
+  offset: 0, 0
+  index: -1
+投影
+  rotate: false
+  xy: 477, 13
+  size: 253, 74
+  orig: 259, 80
+  offset: 3, 3
+  index: -1
+抬手
+  rotate: true
+  xy: 797, 60
+  size: 142, 117
+  orig: 143, 117
+  offset: 0, 0
+  index: -1
+挥手
+  rotate: true
+  xy: 842, 348
+  size: 159, 78
+  orig: 160, 82
+  offset: 1, 0
+  index: -1
+身体
+  rotate: true
+  xy: 221, 8
+  size: 241, 254
+  orig: 300, 267
+  offset: 0, 13
+  index: -1
+鸭头
+  rotate: true
+  xy: 477, 89
+  size: 116, 217
+  orig: 127, 225
+  offset: 11, 0
+  index: -1

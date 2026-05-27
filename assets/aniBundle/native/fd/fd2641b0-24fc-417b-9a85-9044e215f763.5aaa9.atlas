@@ -1,0 +1,230 @@
+
+zha.png
+size: 1984,697
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/上嘴
+  rotate: true
+  xy: 1855, 5
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+1/下嘴
+  rotate: true
+  xy: 1369, 103
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+1/眼框
+  rotate: false
+  xy: 1369, 51
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+2/眼框
+  rotate: false
+  xy: 1369, 51
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+1/眼瞳
+  rotate: false
+  xy: 2, 3
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+2/眼瞳
+  rotate: false
+  xy: 2, 3
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+1/翅膀
+  rotate: true
+  xy: 725, 46
+  size: 107, 89
+  orig: 107, 89
+  offset: 0, 0
+  index: -1
+1/翅膀2
+  rotate: true
+  xy: 620, 42
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+1/脚
+  rotate: false
+  xy: 816, 49
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+2/脚
+  rotate: false
+  xy: 816, 49
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+1/腮红
+  rotate: false
+  xy: 282, 3
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+1/身子
+  rotate: false
+  xy: 1204, 164
+  size: 232, 442
+  orig: 232, 442
+  offset: 0, 0
+  index: -1
+1/鸭头
+  rotate: true
+  xy: 985, 57
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+1嘴
+  rotate: false
+  xy: 403, 32
+  size: 102, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+2/上嘴
+  rotate: true
+  xy: 1302, 71
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+2/下嘴
+  rotate: false
+  xy: 1914, 8
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+2/翅膀
+  rotate: true
+  xy: 2, 16
+  size: 137, 94
+  orig: 137, 94
+  offset: 0, 0
+  index: -1
+2/翅膀2
+  rotate: true
+  xy: 282, 30
+  size: 123, 119
+  orig: 123, 119
+  offset: 0, 0
+  index: -1
+2/腮红
+  rotate: false
+  xy: 191, 2
+  size: 25, 24
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+2/身子
+  rotate: true
+  xy: 1438, 331
+  size: 275, 525
+  orig: 275, 525
+  offset: 0, 0
+  index: -1
+2/鸭头
+  rotate: false
+  xy: 507, 41
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+2嘴
+  rotate: false
+  xy: 1855, 261
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+字2
+  rotate: true
+  xy: 1855, 85
+  size: 174, 78
+  orig: 174, 78
+  offset: 0, 0
+  index: -1
+截停
+  rotate: false
+  xy: 1082, 58
+  size: 218, 95
+  orig: 218, 95
+  offset: 0, 0
+  index: -1
+拆掉木板救出大公鸡
+  rotate: false
+  xy: 1204, 608
+  size: 767, 87
+  orig: 767, 87
+  offset: 0, 0
+  index: -1
+描边
+  rotate: false
+  xy: 1622, 7
+  size: 231, 322
+  orig: 231, 322
+  offset: 0, 0
+  index: -1
+竖绳
+  rotate: true
+  xy: 507, 8
+  size: 31, 1107
+  orig: 31, 1107
+  offset: 0, 0
+  index: -1
+绳子
+  rotate: true
+  xy: 1438, 42
+  size: 287, 182
+  orig: 287, 182
+  offset: 0, 0
+  index: -1
+背景
+  rotate: true
+  xy: 2, 155
+  size: 540, 1200
+  orig: 540, 1200
+  offset: 0, 0
+  index: -1
+鸡冠
+  rotate: true
+  xy: 191, 28
+  size: 125, 89
+  orig: 125, 89
+  offset: 0, 0
+  index: -1
+鸡嘴
+  rotate: false
+  xy: 885, 50
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+鸡脚
+  rotate: false
+  xy: 98, 23
+  size: 91, 130
+  orig: 91, 130
+  offset: 0, 0
+  index: -1

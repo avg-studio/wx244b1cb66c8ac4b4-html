@@ -1,0 +1,48 @@
+
+yj.png
+size: 715,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+前手
+  rotate: true
+  xy: 377, 2
+  size: 176, 146
+  orig: 176, 146
+  offset: 0, 0
+  index: -1
+前腿
+  rotate: false
+  xy: 377, 180
+  size: 227, 166
+  orig: 227, 166
+  offset: 0, 0
+  index: -1
+后手
+  rotate: true
+  xy: 564, 22
+  size: 118, 144
+  orig: 118, 144
+  offset: 0, 0
+  index: -1
+后腿
+  rotate: true
+  xy: 606, 142
+  size: 204, 107
+  orig: 204, 107
+  offset: 0, 0
+  index: -1
+眼镜
+  rotate: true
+  xy: 525, 55
+  size: 123, 37
+  orig: 123, 37
+  offset: 0, 0
+  index: -1
+身子
+  rotate: true
+  xy: 2, 8
+  size: 338, 373
+  orig: 338, 373
+  offset: 0, 0
+  index: -1

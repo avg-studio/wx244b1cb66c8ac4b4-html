@@ -1,0 +1,118 @@
+
+xiadan.png
+size: 1873,373
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+上眼
+  rotate: false
+  xy: 1833, 173
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+上面
+  rotate: true
+  xy: 1801, 273
+  size: 98, 70
+  orig: 98, 70
+  offset: 0, 0
+  index: -1
+下眼
+  rotate: false
+  xy: 1801, 164
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+下面
+  rotate: true
+  xy: 1677, 120
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+右脚
+  rotate: true
+  xy: 1446, 81
+  size: 112, 121
+  orig: 112, 121
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: true
+  xy: 962, 61
+  size: 189, 105
+  orig: 189, 105
+  offset: 0, 0
+  index: -1
+左翅
+  rotate: true
+  xy: 830, 235
+  size: 136, 128
+  orig: 136, 128
+  offset: 0, 0
+  index: -1
+左脚
+  rotate: false
+  xy: 960, 252
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+憋不住了快下到窝里
+  rotate: false
+  xy: 1084, 2
+  size: 776, 70
+  orig: 776, 70
+  offset: 0, 0
+  index: -1
+眼
+  rotate: false
+  xy: 1801, 205
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+筐
+  rotate: true
+  xy: 2, 56
+  size: 315, 826
+  orig: 590, 901
+  offset: 275, 75
+  index: -1
+线
+  rotate: false
+  xy: 2, 42
+  size: 1080, 12
+  orig: 1080, 12
+  offset: 0, 0
+  index: -1
+脖子
+  rotate: true
+  xy: 1446, 195
+  size: 176, 353
+  orig: 176, 353
+  offset: 0, 0
+  index: -1
+腚口
+  rotate: false
+  xy: 830, 115
+  size: 130, 118
+  orig: 130, 118
+  offset: 0, 0
+  index: -1
+蛋
+  rotate: false
+  xy: 1569, 88
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 1084, 74
+  size: 360, 297
+  orig: 360, 297
+  offset: 0, 0
+  index: -1

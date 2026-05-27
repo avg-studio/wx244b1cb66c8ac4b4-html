@@ -1,0 +1,41 @@
+
+luobo.png
+size: 557,215
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+前手
+  rotate: true
+  xy: 383, 147
+  size: 66, 172
+  orig: 66, 172
+  offset: 0, 0
+  index: -1
+前腿
+  rotate: true
+  xy: 429, 2
+  size: 73, 110
+  orig: 75, 110
+  offset: 2, 0
+  index: -1
+后手
+  rotate: false
+  xy: 383, 10
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+后腿
+  rotate: true
+  xy: 429, 77
+  size: 68, 113
+  orig: 69, 114
+  offset: 1, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 3
+  size: 210, 379
+  orig: 210, 379
+  offset: 0, 0
+  index: -1

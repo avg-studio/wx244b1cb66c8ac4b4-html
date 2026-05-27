@@ -1,0 +1,27 @@
+
+shenj.png
+size: 1266,799
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 716, 544
+  size: 253, 548
+  orig: 253, 548
+  offset: 0, 0
+  index: -1
+围住神经鸭
+  rotate: true
+  xy: 2, 2
+  size: 540, 1200
+  orig: 540, 1200
+  offset: 0, 0
+  index: -1
+字
+  rotate: false
+  xy: 2, 545
+  size: 712, 252
+  orig: 712, 252
+  offset: 0, 0
+  index: -1

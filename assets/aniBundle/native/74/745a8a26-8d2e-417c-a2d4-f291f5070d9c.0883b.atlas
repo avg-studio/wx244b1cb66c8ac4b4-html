@@ -1,0 +1,69 @@
+
+jing.png
+size: 816,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+前腿
+  rotate: true
+  xy: 443, 266
+  size: 158, 237
+  orig: 158, 237
+  offset: 0, 0
+  index: -1
+右手
+  rotate: false
+  xy: 443, 3
+  size: 80, 125
+  orig: 80, 125
+  offset: 0, 0
+  index: -1
+后腿
+  rotate: true
+  xy: 682, 264
+  size: 160, 132
+  orig: 160, 132
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 682, 35
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+头盔
+  rotate: true
+  xy: 525, 2
+  size: 103, 112
+  orig: 103, 112
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 443, 130
+  size: 132, 134
+  orig: 132, 134
+  offset: 0, 0
+  index: -1
+身子
+  rotate: false
+  xy: 577, 107
+  size: 103, 157
+  orig: 103, 158
+  offset: 0, 1
+  index: -1
+车
+  rotate: false
+  xy: 2, 2
+  size: 439, 422
+  orig: 439, 422
+  offset: 0, 0
+  index: -1
+轮
+  rotate: false
+  xy: 682, 144
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
