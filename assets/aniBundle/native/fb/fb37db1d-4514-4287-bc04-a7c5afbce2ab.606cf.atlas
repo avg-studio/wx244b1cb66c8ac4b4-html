@@ -1,0 +1,223 @@
+
+skeleton.png
+size: 1984,761
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/上嘴
+  rotate: false
+  xy: 1036, 35
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+1/下嘴
+  rotate: true
+  xy: 1157, 35
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+1/眼框
+  rotate: false
+  xy: 852, 35
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+2/眼框
+  rotate: false
+  xy: 852, 35
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+1/眼瞳
+  rotate: false
+  xy: 756, 40
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+2/眼瞳
+  rotate: false
+  xy: 756, 40
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+1/翅膀
+  rotate: false
+  xy: 1875, 436
+  size: 107, 89
+  orig: 107, 89
+  offset: 0, 0
+  index: -1
+1/翅膀2
+  rotate: true
+  xy: 1875, 254
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+1/脚
+  rotate: true
+  xy: 1875, 367
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+2/脚
+  rotate: true
+  xy: 1875, 367
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+1/腮红
+  rotate: false
+  xy: 756, 53
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+1/身子
+  rotate: true
+  xy: 1481, 527
+  size: 232, 442
+  orig: 232, 442
+  offset: 0, 0
+  index: -1
+1/鸭头
+  rotate: false
+  xy: 1374, 137
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+1嘴
+  rotate: false
+  xy: 1157, 96
+  size: 102, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+2/上嘴
+  rotate: false
+  xy: 1481, 460
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+2/上嘴2
+  rotate: false
+  xy: 1875, 31
+  size: 102, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+2/下嘴
+  rotate: true
+  xy: 1481, 390
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+2/翅膀
+  rotate: true
+  xy: 756, 80
+  size: 137, 94
+  orig: 137, 94
+  offset: 0, 0
+  index: -1
+2/翅膀2
+  rotate: true
+  xy: 1036, 94
+  size: 123, 119
+  orig: 123, 119
+  offset: 0, 0
+  index: -1
+2/腮红
+  rotate: true
+  xy: 783, 53
+  size: 25, 24
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+2/身子
+  rotate: false
+  xy: 1204, 234
+  size: 275, 525
+  orig: 275, 525
+  offset: 0, 0
+  index: -1
+2/鸭头
+  rotate: false
+  xy: 1261, 120
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+弹窗
+  rotate: false
+  xy: 2, 8
+  size: 463, 209
+  orig: 463, 209
+  offset: 0, 0
+  index: -1
+投影
+  rotate: true
+  xy: 1481, 130
+  size: 258, 72
+  orig: 258, 72
+  offset: 0, 0
+  index: -1
+描边2
+  rotate: false
+  xy: 1576, 20
+  size: 297, 505
+  orig: 297, 505
+  offset: 0, 0
+  index: -1
+竖绳
+  rotate: true
+  xy: 467, 2
+  size: 31, 1107
+  orig: 31, 1107
+  offset: 0, 0
+  index: -1
+绳子
+  rotate: false
+  xy: 467, 35
+  size: 287, 182
+  orig: 287, 182
+  offset: 0, 0
+  index: -1
+背景3
+  rotate: true
+  xy: 2, 219
+  size: 540, 1200
+  orig: 540, 1200
+  offset: 0, 0
+  index: -1
+鸡冠
+  rotate: true
+  xy: 945, 92
+  size: 125, 89
+  orig: 125, 89
+  offset: 0, 0
+  index: -1
+鸡嘴
+  rotate: true
+  xy: 1875, 154
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+鸡脚
+  rotate: false
+  xy: 852, 87
+  size: 91, 130
+  orig: 91, 130
+  offset: 0, 0
+  index: -1
